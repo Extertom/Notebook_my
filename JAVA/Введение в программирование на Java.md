@@ -16,10 +16,11 @@
 - Коментарии в коде однострочные : **//это коментарий**
 - Коментарии многострочные обозначаются /* код или коментарий */
 - **cntr /** делает многострочный коментарий при выделении
-![](https://github.com/Extertom/Notebook_my/blob/d8340b43c8f479f1e2e7c58cf6b15e01c55d4d65/images/Hello_World.png )
+![](https://github.com/Extertom/Notebook_my/blob/a1396dd377b979a913de3c30b80667a2d97bf634/images/Hello_World.png)
 
 ## Небходимые интрументы 
 ![](https://github.com/Extertom/Notebook_my/blob/009aa27f7c91deffe8189b0cbfd90b5f1a060ed4/images/%D0%BD%D0%B5%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%D0%B8%D0%BC%D1%8B%D0%B5%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B.png)
+
 
 
 
