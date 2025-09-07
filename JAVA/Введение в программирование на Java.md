@@ -18,5 +18,7 @@
 - **cntr /** делает многострочный коментарий при выделении
 ![](https://github.com/Extertom/Notebook_my/blob/d8340b43c8f479f1e2e7c58cf6b15e01c55d4d65/images/Hello_World.png )
 
+## Небходимые интрументы 
+![]
 
 
