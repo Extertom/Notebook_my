@@ -1,3 +1,1 @@
-# Arithmetic Operations
-
-=
+# Короткая команда для вызова цикла fori
