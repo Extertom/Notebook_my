@@ -25,6 +25,7 @@
 
 # Метод с условием и аргументами с приминением boolean
 ![](https://github.com/Extertom/Notebook_my/blob/d7db34fc44f6e6a55284209469dd8cab10e2a8f6/images/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%20%D1%81%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D0%BC%D0%B8%20%D0%B8%20%D0%B0%D1%80%D0%B3%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D1%81%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC%20boolean%20%D0%BA%D0%BE%D0%B4%202.png)
+![](https://github.com/Extertom/Notebook_my/blob/496225d5629ee78aafede3509cf3aa82ec185912/images/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%20%D1%81%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D0%B5%D0%BC%20%D0%B8%20%D0%B0%D1%80%D0%B3%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D1%81%20%D0%BF%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%D0%BC%20boolean%20%D0%BA%D0%BE%D0%B4%201.png)
 
 
 
