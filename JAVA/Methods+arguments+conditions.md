@@ -16,6 +16,10 @@
 ![](https://github.com/Extertom/Notebook_my/blob/1f4419c3d3f44e8ca05b453ad509512300619c99/images/%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80%20%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%20%D1%81%20%D0%B0%D1%80%D0%B3%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BA%D0%BE%D0%B4.png)
 ![](https://github.com/Extertom/Notebook_my/blob/7e68ae80076e20f24f8a954956d30a4c9c8ebb3b/images/%D0%B0%D1%80%D0%B3%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B%202.png)
 
+# Методы с условием и аргументами
+![](https://github.com/Extertom/Notebook_my/blob/701cc560973bd102e1577b151f23f121cfe7c497/images/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%20%D1%81%20%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D0%BC%D0%B8%20%D0%B8%20%D0%B0%D1%80%D0%B3%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BA%D0%BE%D0%B4%202.png)
+![](https://github.com/Extertom/Notebook_my/blob/701cc560973bd102e1577b151f23f121cfe7c497/images/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%20%D1%81%20%D1%83%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D0%BC%D0%B8%20%D0%B8%20%D0%B0%D1%80%D0%B3%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D0%BC%D0%B8%20%D0%BA%D0%BE%D0%B4.png)
+
 
 
 
