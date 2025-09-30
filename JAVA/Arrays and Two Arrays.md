@@ -1,4 +1,5 @@
 # Одномерные массивы;
+## Чтобы отпечатать массив **System.out.println(Arrays.toString(имя массива));**
 ![](https://github.com/Extertom/Notebook_my/blob/ec7fcf91b385c1ee6fe17c411765a3557f5afdeb/images/OneArrays01.png)
 ![](https://github.com/Extertom/Notebook_my/blob/513b91c33044ebee3615dd5eccaf655cdbc2b390/images/OneArrays%2004.png)
 ![](https://github.com/Extertom/Notebook_my/blob/513b91c33044ebee3615dd5eccaf655cdbc2b390/images/OneArrays%2005.png)
@@ -10,5 +11,6 @@
 # Двумерные массивы;
 ![](https://github.com/Extertom/Notebook_my/blob/513b91c33044ebee3615dd5eccaf655cdbc2b390/images/TwoArrays%2001.png)
 ![](https://github.com/Extertom/Notebook_my/blob/513b91c33044ebee3615dd5eccaf655cdbc2b390/images/TwoArrays%2002.png)
+
 
 
