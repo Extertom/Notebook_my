@@ -9,8 +9,10 @@
 # Примеры работы for с одномерными массивами;
 
 # Двумерные массивы;
+## Чтобы отпечатать двумерный массив и более System.out.println(Arrays.deepToString(Имя массива);
 ![](https://github.com/Extertom/Notebook_my/blob/513b91c33044ebee3615dd5eccaf655cdbc2b390/images/TwoArrays%2001.png)
 ![](https://github.com/Extertom/Notebook_my/blob/513b91c33044ebee3615dd5eccaf655cdbc2b390/images/TwoArrays%2002.png)
+
 
 
 
